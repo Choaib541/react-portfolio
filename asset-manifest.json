@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed7faeff.css",
+    "main.js": "/static/js/main.9a483994.js",
+    "static/media/twillio.jpeg": "/static/media/twillio.1242465349319edf7a65.jpeg",
+    "static/media/GrandRounds.jpg": "/static/media/GrandRounds.734dbb8462d035ea009a.jpg",
+    "static/media/SAPLineup.png": "/static/media/SAPLineup.5d691f7ced35f3d6a2c9.png",
+    "static/media/WorkSans-Italic-VariableFont_wght.ttf": "/static/media/WorkSans-Italic-VariableFont_wght.67c3dc80c3f8171f526e.ttf",
+    "static/media/SAP-Fiori-for-iOS.png": "/static/media/SAP-Fiori-for-iOS.8a1b0d73121024e847c1.png",
+    "static/media/LastPass.jpeg": "/static/media/LastPass.f4d0ccf30dcbe0bb28c0.jpeg",
+    "static/media/RobotoMono-Italic-VariableFont_wght.ttf": "/static/media/RobotoMono-Italic-VariableFont_wght.180b4368cb1e514876b8.ttf",
+    "index.html": "/index.html",
+    "main.ed7faeff.css.map": "/static/css/main.ed7faeff.css.map",
+    "main.9a483994.js.map": "/static/js/main.9a483994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7faeff.css",
+    "static/js/main.9a483994.js"
+  ]
+}
