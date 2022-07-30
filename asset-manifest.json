@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed7faeff.css",
+    "main.js": "/static/js/main.1fa1e8cf.js",
+    "static/media/Zillow.png": "/static/media/Zillow.73f3fe99c145e6e2542c.png",
+    "static/media/OSI.png": "/static/media/OSI.30c9b5f3935aad6819e0.png",
+    "static/media/FAG.png": "/static/media/FAG.09b32c0d4b5f0b118e48.png",
+    "static/media/clipboard.png": "/static/media/clipboard.6742ab6121914e6927c8.png",
+    "static/media/HightTech.png": "/static/media/HightTech.458b7fd1089adf480747.png",
+    "static/media/WorkSans-Italic-VariableFont_wght.ttf": "/static/media/WorkSans-Italic-VariableFont_wght.67c3dc80c3f8171f526e.ttf",
+    "static/media/RobotoMono-Italic-VariableFont_wght.ttf": "/static/media/RobotoMono-Italic-VariableFont_wght.180b4368cb1e514876b8.ttf",
+    "static/media/Yoko.png": "/static/media/Yoko.0ae92d4fccb0b83eaf7b.png",
+    "static/media/react.svg": "/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "index.html": "/index.html",
+    "main.ed7faeff.css.map": "/static/css/main.ed7faeff.css.map",
+    "main.1fa1e8cf.js.map": "/static/js/main.1fa1e8cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7faeff.css",
+    "static/js/main.1fa1e8cf.js"
+  ]
+}
